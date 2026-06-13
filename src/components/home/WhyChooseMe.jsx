@@ -5,6 +5,7 @@ import {
   FiSearch,
   FiLayout,
 } from "react-icons/fi";
+import Container from "../common/Container";
 
 const features = [
   {
@@ -37,7 +38,7 @@ const WhyChooseMe = () => {
   return (
     <section className="py-28">
 
-      <div className="mx-auto max-w-7xl px-5">
+      <Container>
 
         {/* Heading */}
 
@@ -166,7 +167,7 @@ const WhyChooseMe = () => {
 
         </div>
 
-      </div>
+      </Container>
 
     </section>
   );
