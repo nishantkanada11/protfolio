@@ -354,7 +354,7 @@ await emailjs.send(
 
                     ? "Sending..."
 
-                    : "Send Message 🚀"
+                    : "Send Message"
 
                 }
 
