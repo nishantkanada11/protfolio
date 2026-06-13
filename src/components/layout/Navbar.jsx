@@ -261,7 +261,7 @@ const Navbar = () => {
 
               >
 
-                Hire Me
+                Let's Talk
 
               </Button>
 
